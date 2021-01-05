@@ -1,0 +1,5 @@
+put info about what permissions you grant for people to use your code
+
+Licensing a repository: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository
+
+free software foundation
